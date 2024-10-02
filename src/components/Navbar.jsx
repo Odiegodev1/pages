@@ -1,6 +1,5 @@
 import { NavbarData } from "../data/MockData";
 import { FaApple, FaRegUser } from "react-icons/fa";
-import React from "react";
 import { MdMenu } from "react-icons/md";
 const navbar = () => {
   return (
