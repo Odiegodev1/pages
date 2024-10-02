@@ -1,5 +1,6 @@
-import Navbar from "./navbar";
+
 import {useState, useEffect} from "react";
+import Navbar from "../components/Navbar";
 import { HeadPhoneData } from "../data/MockData";
 import { FaFacebook, FaInstagram, FaTwitter } from "react-icons/fa";
 import { motion, AnimatePresence, easeInOut } from "framer-motion";
